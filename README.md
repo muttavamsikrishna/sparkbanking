@@ -1,3 +1,3 @@
 # sparkbanking
-#the spark foundations
+#The Sparks Foundation
 #student intern
